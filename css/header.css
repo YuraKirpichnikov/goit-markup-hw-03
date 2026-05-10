@@ -61,7 +61,6 @@
     display: flex;
     gap: 40px;
 
-    margin-left: auto;
 }
 
 .contacts li {
@@ -85,3 +84,7 @@
 .contacts a:focus {
     color: #404bbf;
 }   
+.address {
+    margin-left: auto;
+    font-style: normal;
+}
