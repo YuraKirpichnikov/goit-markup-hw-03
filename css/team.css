@@ -16,6 +16,7 @@
 }
 
 .title-h3 {
+    margin-bottom: 8px;
     text-align: center;
 }
 
@@ -26,6 +27,13 @@
 }
 
 .team-txt {
+    margin-bottom: 72px;
     line-height: 1.11;
     text-align: center;
+}
+.person img {
+    display: block;
+}
+.person {
+    border-radius: 0 0 4px 4px;
 }
