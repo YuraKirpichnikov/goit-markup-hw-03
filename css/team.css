@@ -1,22 +1,31 @@
 .team {
     background-color: #f4f4fd;
 }
+
 .team-list {
     display: flex;
     gap: 24px;
 }
+
 .team-list li {
     width: calc((100% - 72px) / 4);
 }
-.person {
-    background-color: #ffffff;}
 
-.title-h3 {text-align: center;}
+.person {
+    background-color: #ffffff;
+}
+
+.title-h3 {
+    text-align: center;
+}
+
 .title-p {
     color: #434455;
     line-height: 1.5;
-    text-align: center;}
+    text-align: center;
+}
+
 .team-txt {
     line-height: 1.11;
-    text-align: center;}
-    
+    text-align: center;
+}
