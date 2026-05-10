@@ -35,5 +35,6 @@
     display: block;
 }
 .person {
-    border-radius: 0 0 4px 4px;
-}
+    border-radius: 0 0 4px 4px;}
+.team-card-content {
+    padding: 32px 16px;}
